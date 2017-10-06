@@ -1,2 +1,3 @@
 git is a student;
 git is an object
+git is a man 
